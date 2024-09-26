@@ -1,0 +1,1 @@
+export * from './rents.controller';

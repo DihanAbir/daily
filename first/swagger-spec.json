@@ -1,0 +1,1 @@
+{"openapi":"3.0.0","paths":{"/":{"get":{"operationId":"AppController_getHello","parameters":[],"responses":{"200":{"description":""}}}}},"info":{"title":"DAYIRI Api","description":"This api will help clients to store their data.","version":"1.0","contact":{}},"tags":[{"name":"DAYIRI","description":""}],"servers":[],"components":{"schemas":{}}}

@@ -1,0 +1,10 @@
+.dockerignore
+.git
+.gitignore
+*.log
+configurations/
+.vscode
+.devcontainers/
+.env
+.env.sample
+node_modules/
